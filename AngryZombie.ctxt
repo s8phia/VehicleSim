@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=AngryZombie
+comment0.text=\r\n\ The\ Car\ subclass\r\n
+comment1.params=origin
+comment1.target=AngryZombie(VehicleSpawner)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=boolean\ checkHitPedestrian()
+comment3.text=\r\n\ When\ a\ Car\ hit's\ a\ Pedestrian,\ it\ should\ knock\ it\ over\r\n
+comment4.params=
+comment4.target=void\ checkCollisionWithSun()
+comment5.params=
+comment5.target=void\ checkCollisionWithTashzombie()
+numComments=6

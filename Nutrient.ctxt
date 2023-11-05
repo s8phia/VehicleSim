@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Nutrient
+comment0.text=\r\n\ Nutrient\ class\ represents\ a\ nutriente\ in\ the\ game.\r\n\ Nutrients\ move\ randomly\ in\ a\ circular\ path\ and\ transform\ Pedestrian\ objects\ into\ explosive\ PotatoMine\ objects\ upon\ contact.\r\n\ If\ a\ Nutrient\ reaches\ the\ world\ edge,\ it\ disappears.\r\n
+comment1.params=
+comment1.target=Nutrient()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ nutrientMovement()
+comment4.params=
+comment4.target=boolean\ atWorldEdge()
+numComments=5

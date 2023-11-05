@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Pedestrian
+comment0.text=\r\n\ A\ Pedestrian\ that\ tries\ to\ walk\ across\ the\ street\r\n
+comment1.params=direction
+comment1.target=Pedestrian(int)
+comment2.params=newSpeed
+comment2.target=void\ setMaxSpeed(double)
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Act\ -\ do\ whatever\ the\ Pedestrian\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment4.params=
+comment4.target=void\ knockDown()
+comment4.text=\r\n\ Method\ to\ cause\ this\ Pedestrian\ to\ become\ knocked\ down\ -\ stop\ moving,\ turn\ onto\ side\r\n
+comment5.params=
+comment5.target=void\ healMe()
+comment5.text=\r\n\ Method\ to\ allow\ a\ downed\ Pedestrian\ to\ be\ healed\r\n
+comment6.params=
+comment6.target=boolean\ isAwake()
+numComments=7

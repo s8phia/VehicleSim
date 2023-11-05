@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=LaneSpawnCheck
+comment1.params=
+comment1.target=LaneSpawnCheck()
+comment2.params=
+comment2.target=boolean\ safeToChangeLanes()
+numComments=3
